@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/afonso
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://afn.so
+  * I am afonso (https://keybase.io/afonso) on keybase.
+  * I have a public key ASAAQoENTYe-TSUneqDa4xoU7tIopcwF2r-dkspF-G3T8Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a03eac84dec8863c194cef72cb2943e5ce99dfdc5e509a1a44db53c165d7724d0a",
+            "host": "keybase.io",
+            "kid": "01200042810d4d87be4d25277aa0dae31a14eed228a5cc05dabf9d92ca45f86dd3f10a",
+            "uid": "4a07fdf2974b5ffd8920da837d886300",
+            "username": "afonso"
+        },
+        "service": {
+            "hostname": "afn.so",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.7"
+    },
+    "ctime": 1454627932,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454627901,
+        "hash": "81966d6bb8a8999024367bfaf52f92e8c186a965608f6541b4c6da68d23bdcd1da1879c5cc70cac893857794e4fb90eb796b403a2cbd958115ec5daaac3cfa8f",
+        "seqno": 362570
+    },
+    "prev": "7c422fd9c3d2fd02ee2a56ad960c459c6d5f42effcc5cf190c27eaab6da808f3",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAEKBDU2Hvk0lJ3qg2uMaFO7SKKXMBdq/nZLKRfht0/EKp3BheWxvYWTFAup7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTAzZWFjODRkZWM4ODYzYzE5NGNlZjcyY2IyOTQzZTVjZTk5ZGZkYzVlNTA5YTFhNDRkYjUzYzE2NWQ3NzI0ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDA0MjgxMGQ0ZDg3YmU0ZDI1Mjc3YWEwZGFlMzFhMTRlZWQyMjhhNWNjMDVkYWJmOWQ5MmNhNDVmODZkZDNmMTBhIiwidWlkIjoiNGEwN2ZkZjI5NzRiNWZmZDg5MjBkYTgzN2Q4ODYzMDAiLCJ1c2VybmFtZSI6ImFmb25zbyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWZuLnNvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC43In0sImN0aW1lIjoxNDU0NjI3OTMyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTQ2Mjc5MDEsImhhc2giOiI4MTk2NmQ2YmI4YTg5OTkwMjQzNjdiZmFmNTJmOTJlOGMxODZhOTY1NjA4ZjY1NDFiNGM2ZGE2OGQyM2JkY2QxZGExODc5YzVjYzcwY2FjODkzODU3Nzk0ZTRmYjkwZWI3OTZiNDAzYTJjYmQ5NTgxMTVlYzVkYWFhYzNjZmE4ZiIsInNlcW5vIjozNjI1NzB9LCJwcmV2IjoiN2M0MjJmZDljM2QyZmQwMmVlMmE1NmFkOTYwYzQ1OWM2ZDVmNDJlZmZjYzVjZjE5MGMyN2VhYWI2ZGE4MDhmMyIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKsU427nT3S+tOJo1hQ9H+azWA77qqNePj9lpA7Q1nbc9GCAnR4T3RIMiLNDp33RAtG/NnsvckucGeV884ZeZgGoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/afonso
+
+==================================================================
