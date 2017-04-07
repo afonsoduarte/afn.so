@@ -1,47 +1,10 @@
 <html>
   <title>Hi.</title>
   <body>
-    <pre>
-      Everything I've ever worked on:
+<pre>
+Everything I've ever worked on:
 
-      http://afn.so/
-      http://blackhorseworkshop.co.uk/
-      http://bon.se/
-      http://beta.buildingrights.org/
-      https://critisticuffs.org/
-      http://deallegrifeldkamp.com/
-      http://www.galeriecrevecoeur.com/
-      http://hermesjessen.de/
-      http://kathrynferguson.co.uk/
-      http://www.majasten.se/
-      http://www.pavilion.org.uk/
-      http://www.thomasadank.com/
-      http://www.airstudio.org/projects/cally-calls/
-      http://www.amillionminutes.org/
-      http://antonialotz.com/
-      http://artisan.uk.com/
-      http://bearbrooksbank.com/products/rings/
-      http://brosefogale.co.uk/
-      http://busnel.se/
-      http://onviewonline.craftscouncil.org.uk/striking-gold/
-      http://dyvikkahlen.com/
-      http://www.marjanvanaubel.com/
-      http://martinfrostner.se/
-      http://nuts-on-circles.com/
-      http://publicinterventions.com/
-      http://sakikokohashi.com/
-      http://www.tafarkitektkontor.se/
-      http://www.tombellsculpture.com/
-      http://victoriawilmotte.fr/
-      http://www.werkblau.de/
-      http://easy-tips.tumblr.com/
-      http://www.davidbatchelor.co.uk/
-      http://www.ensapc.fr/
-      http://criticalwriting.rca.ac.uk/
-      http://www.ground-plan.co.uk/projects/walmer-road/
-      http://www.acircular.com/
-      http://treatingofmatters.info/
-      http://fantastic-factology.com/
-      http://www.anatomyofastreet.org/
-      http://cca.rca.ac.uk/johnsmithsoloshow/
-    </pre>
+<?php include 'portfolio/work.txt' ?>
+</pre>
+</body>
+</html>
