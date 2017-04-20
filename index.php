@@ -220,19 +220,19 @@ section:after, header:after {
             </div>
             <div class="work-item-images">
               <div class="work-item-image desktop">
-                <img src="images/hm-highlights-2016.studiobon.com-index-en-GB.html(Laptop with MDPI screen).png">
+                <img src="images/hm-highlights-2016-1.png">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/hm-highlights-2016.studiobon.com-index-en-GB.html(Laptop with MDPI screen) (1).png">
+                <img src="images/hm-highlights-2016-2.png">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/hm-highlights-2016.studiobon.com-index-en-GB.html(Laptop with MDPI screen) (2).png">
+                <img src="images/hm-highlights-2016-3.png">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/hm-highlights-2016.studiobon.com-index-en-GB.html(iPhone 5).png">
+                <img src="images/hm-highlights-2016-4.png">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/hm-highlights-2016.studiobon.com-index-en-GB.html(iPhone 5) (1).png">
+                <img src="images/hm-highlights-2016-5.png">
               </div>
             </div>
 
