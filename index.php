@@ -220,19 +220,19 @@ section:after, header:after {
             </div>
             <div class="work-item-images">
               <div class="work-item-image desktop">
-                <img src="images/hm-highlights-2016-1.png">
+                <img src="images/hm-highlights-2016-1.png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/hm-highlights-2016-2.png">
+                <img src="images/hm-highlights-2016-2.png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/hm-highlights-2016-3.png">
+                <img src="images/hm-highlights-2016-3.png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/hm-highlights-2016-4.png">
+                <img src="images/hm-highlights-2016-4.png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/hm-highlights-2016-5.png">
+                <img src="images/hm-highlights-2016-5.png.jpg">
               </div>
             </div>
 
@@ -251,22 +251,22 @@ section:after, header:after {
             </div>
             <div class="work-item-images">
               <div class="work-item-image desktop">
-                <img src="images/fashionweekse-clipped.png">
+                <img src="images/fashionweekse-clipped.png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/fashionweek.se-designers-(Laptop with MDPI screen).png">
+                <img src="images/fashionweek.se-designers-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/fashionweek.se-designers-baumgarten-di-marco-(Laptop with MDPI screen).png">
+                <img src="images/fashionweek.se-designers-baumgarten-di-marco-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/fashionweek.se-(iPhone 5).png">
+                <img src="images/fashionweek.se-(iPhone 5).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/fashionweek.se-designers-(iPhone 5).png">
+                <img src="images/fashionweek.se-designers-(iPhone 5).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/fashionweek.se-designers-baumgarten-di-marco-(iPhone 5).png">
+                <img src="images/fashionweek.se-designers-baumgarten-di-marco-(iPhone 5).png.jpg">
               </div>
             </div>
 
@@ -285,31 +285,31 @@ section:after, header:after {
             </div>
             <div class="work-item-images">
               <div class="work-item-image desktop">
-                <img src="images/bon.se-(Laptop with MDPI screen).png">
+                <img src="images/bon.se-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/bon.se-article-har-samtidens-mode-forlorat-sin-sjal-i-jakten-pa-hype-(Laptop with MDPI screen).png">
+                <img src="images/bon.se-article-har-samtidens-mode-forlorat-sin-sjal-i-jakten-pa-hype-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/bon.se-magazine-bon-72-(Laptop with MDPI screen).png">
+                <img src="images/bon.se-magazine-bon-72-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/bon.se-magazine-bon-72-part-two-sun-seekers-(Laptop with MDPI screen) (1).png">
+                <img src="images/bon.se-magazine-bon-72-part-two-sun-seekers-(Laptop with MDPI screen) (1).png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/bon.se-magazine-bon-72-part-two-sun-seekers-(Laptop with MDPI screen).png">
+                <img src="images/bon.se-magazine-bon-72-part-two-sun-seekers-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/bon.se-(iPhone 5).png">
+                <img src="images/bon.se-(iPhone 5).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/bon.se-(iPhone 5) (1).png">
+                <img src="images/bon.se-(iPhone 5) (1).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/bon.se-article-har-samtidens-mode-forlorat-sin-sjal-i-jakten-pa-hype-(iPhone 5).png">
+                <img src="images/bon.se-article-har-samtidens-mode-forlorat-sin-sjal-i-jakten-pa-hype-(iPhone 5).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/bon.se-magazine-bon-72-(iPhone 5).png">
+                <img src="images/bon.se-magazine-bon-72-(iPhone 5).png.jpg">
               </div>
             </div>
 
@@ -328,16 +328,16 @@ section:after, header:after {
             </div>
             <div class="work-item-images">
               <div class="work-item-image desktop">
-                <img src="images/vestoj.com-(Laptop with MDPI screen).png">
+                <img src="images/vestoj.com-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image desktop">
-                <img src="images/vestoj.com-category-fiction-(Laptop with MDPI screen).png">
+                <img src="images/vestoj.com-category-fiction-(Laptop with MDPI screen).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/vestoj.com-(iPhone 5).png">
+                <img src="images/vestoj.com-(iPhone 5).png.jpg">
               </div>
               <div class="work-item-image mobile">
-                <img src="images/vestoj.com-category-fiction-(iPhone 5).png">
+                <img src="images/vestoj.com-category-fiction-(iPhone 5).png.jpg">
               </div>
             </div>
 
