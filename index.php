@@ -11,7 +11,7 @@
   <style>
   /* line 1, resume.scss */
 body {
-  max-width: 48em;
+  max-width: 770px;
   margin: 1.4rem auto; 
 }
 
@@ -213,7 +213,7 @@ section:after, header:after {
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://about.hm.com/en/sustainability/sustainability-highlights-2016-en.html">http://about.hm.com/en/sustainability/sustainability-highlights-2016-en.html</a></p>
               <time class="date">2016-11-01&thinsp;–&thinsp;2017-04-01</time>
-              <p class="position">Developer</p>
+              <p class="position">Web Designer and Front-end Developer</p>
             </header>
             <div class="work-item-summary">
               <p>The H&amp;M Sustainability Highlights 2016 was built in HTML, SASS and Javascript. Amongst the key challenges were making the website perform well in a very wide range of devices and bandwidths, and designing components robust enough to handle 8 different languages and scripts, including Japanese and Chinese, which required a custom automated workflow to be developed.</p>
@@ -244,7 +244,7 @@ section:after, header:after {
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://fashionweek.se">http://fashionweek.se</a></p>
               <time class="date">2016-07-01&thinsp;–&thinsp;2016-08-25</time>
-              <p class="position">Developer</p>
+              <p class="position">Web Designer and Front-end Developer</p>
             </header>
             <div class="work-item-summary">
               <p>Fashion Week Stockholm is a WordPress install with custom plugins and theme. It was designed mobile-first, and optimised to feel snappy on any connection.</p>
@@ -278,10 +278,10 @@ section:after, header:after {
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://bon.se">http://bon.se</a></p>
               <time class="date">2012-09-01&thinsp;–&thinsp;2017-04-01</time>
-              <p class="position">Developer</p>
+              <p class="position">Web Designer and Front-end Developer</p>
             </header>
             <div class="work-item-summary">
-              <p>Bon is a Swedish fashion magazine, both digital and print. We’re responsible for everything from front end to back end tools, hosting and deployments, and setting up and developing a video streaming service twice a year for Fashion Week Stockholm. It uses a WordPress back-end with custom-built front-end, and runs on a fully automated and reproducible stack, orchestrated by Ansible.</p>
+              <p>Bon is a Swedish fashion magazine, both digital and print. We’re responsible for everything from front-end to back-end tools, hosting and deployments, and setting up and developing a video streaming service twice a year for Fashion Week Stockholm. It uses a WordPress back-end with custom-built front-end, and runs on a fully automated and reproducible stack, orchestrated by Ansible.</p>
             </div>
             <div class="work-item-images">
               <div class="work-item-image desktop">
@@ -321,7 +321,7 @@ section:after, header:after {
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://vestoj.com">http://vestoj.com</a></p>
               <time class="date">2014-09-01&thinsp;–&thinsp;2015-06-01</time>
-              <p class="position">Developer</p>
+              <p class="position">Web Designer and Front-end Developer</p>
             </header>
             <div class="work-item-summary">
               <p>Vestoj is an online and print publication exploring critical writing in fashion. The website is built on a WordPress back-end with a custom front-end.</p>
