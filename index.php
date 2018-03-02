@@ -7,12 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title></title>
-  
+
   <style>
   /* line 1, resume.scss */
 body {
   max-width: 770px;
-  margin: 1.4rem auto; 
+  margin: 1.4rem auto;
 }
 
 /* line 11, resume.scss */
@@ -39,7 +39,7 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 0.06em;
     font-size: 0.9em;
-    margin-top: 2.8rem; 
+    margin-top: 2.8rem;
 }
 
 p {
@@ -279,6 +279,7 @@ section:after, header:after {
               <p class="url"><a class="link" href="http://bon.se">http://bon.se</a></p>
               <time class="date">2012-09-01&thinsp;–&thinsp;2017-04-01</time>
               <p class="position">Web Designer and Front-end Developer</p>
+              <p class="position">Designed by <a href="//sans.website">Erik Hartin</a></p>
             </header>
             <div class="work-item-summary">
               <p>Bon is a Swedish fashion magazine, both digital and print. We’re responsible for everything from front-end to back-end tools, hosting and deployments, and setting up and developing a video streaming service twice a year for Fashion Week Stockholm. It uses a WordPress back-end with custom-built front-end, and runs on a fully automated and reproducible stack, orchestrated by Ansible.</p>
@@ -322,6 +323,7 @@ section:after, header:after {
               <p class="url"><a class="link" href="http://vestoj.com">http://vestoj.com</a></p>
               <time class="date">2014-09-01&thinsp;–&thinsp;2015-06-01</time>
               <p class="position">Web Designer and Front-end Developer</p>
+              <p class="position">Designed by <a href="//sans.website">Erik Hartin</a></p>
             </header>
             <div class="work-item-summary">
               <p>Vestoj is an online and print publication exploring critical writing in fashion. The website is built on a WordPress back-end with a custom front-end.</p>
