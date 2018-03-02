@@ -114,6 +114,9 @@ section:after, header:after {
   width: 33%;
   margin-left: 6%; }
   /* line 54, resume.scss */
+  .work-item-header p + p {
+    text-indent: 0;
+  }
   .work-item-header h4 {
     margin: 0; }
     /* line 56, resume.scss */
@@ -212,7 +215,7 @@ section:after, header:after {
             </h4>
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://about.hm.com/en/sustainability/sustainability-highlights-2016-en.html">http://about.hm.com/en/sustainability/sustainability-highlights-2016-en.html</a></p>
-              <time class="date">2016-11-01&thinsp;–&thinsp;2017-04-01</time>
+              <p><time class="date">2016-11-01&thinsp;–&thinsp;2017-04-01</time></p>
               <p class="position">Web Designer and Front-end Developer</p>
             </header>
             <div class="work-item-summary">
@@ -243,7 +246,7 @@ section:after, header:after {
             </h4>
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://fashionweek.se">http://fashionweek.se</a></p>
-              <time class="date">2016-07-01&thinsp;–&thinsp;2016-08-25</time>
+              <p><time class="date">2016-07-01&thinsp;–&thinsp;2016-08-25</time></p>
               <p class="position">Web Designer and Front-end Developer</p>
             </header>
             <div class="work-item-summary">
@@ -277,7 +280,7 @@ section:after, header:after {
             </h4>
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://bon.se">http://bon.se</a></p>
-              <time class="date">2012-09-01&thinsp;–&thinsp;2017-04-01</time>
+              <p><time class="date">2012-09-01&thinsp;–&thinsp;2017-04-01</time></p>
               <p class="position">Web Designer and Front-end Developer</p>
               <p class="position">Designed by <a href="//sans.website">Erik Hartin</a></p>
             </header>
@@ -321,7 +324,7 @@ section:after, header:after {
             </h4>
             <header class="work-item-header">
               <p class="url"><a class="link" href="http://vestoj.com">http://vestoj.com</a></p>
-              <time class="date">2014-09-01&thinsp;–&thinsp;2015-06-01</time>
+              <p><time class="date">2014-09-01&thinsp;–&thinsp;2015-06-01</time></p>
               <p class="position">Web Designer and Front-end Developer</p>
               <p class="position">Designed by <a href="//sans.website">Erik Hartin</a></p>
             </header>
